@@ -1,5 +1,5 @@
 <h1 align="center">
-    FER
+    EMOTIONAL RECOGNITION
 </h1>
 
 <p align="center">
@@ -9,10 +9,21 @@
 
 ### Run code
 
+- Install Streamlit using pip Run this command in your terminal or command prompt
+
+```python
+pip install streamlit
+```
+
 - Clone the repo and then run this code in root dir
 
 ```python
 streamlit run main.py
 ```
 
+- Uninstall the Streamlit Python package using pip
+
+```python
+pip uninstall streamlit
+```
 or click on [here](https://imageprocessing.streamlitapp.com/) to run in the cloud.
