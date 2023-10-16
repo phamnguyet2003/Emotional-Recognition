@@ -9,7 +9,7 @@ from keras.models import model_from_json, load_model
 #  json_file = open('./model/emotion_model1.json', 'r')
 #  loaded_model_json = json_file.read()
 #  json_file.close()
-model = load_model("./model/optimize2_model.h5")
+model = load_model("./model/model.h5")
 
 # load weights into new model
 #  model.load_weights("./model/optimize2_model.h5")
