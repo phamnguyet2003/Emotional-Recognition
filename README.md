@@ -27,3 +27,5 @@ streamlit run main.py
 pip uninstall streamlit
 ```
 or click on [here](https://imageprocessing.streamlitapp.com/) to run in the cloud.
+
+Click on [here](https://github.com/phamnguyet2003/Emotional-Recognition/blob/main/document/Report.pdf) to see the report.
