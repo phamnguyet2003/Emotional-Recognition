@@ -7,6 +7,20 @@
     <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black"></a>
 </p>
 
+### Introduce to files on this repository:
+- [facial-emotion-recognition.ipynb](https://github.com/phamnguyet2003/Emotional-Recognition/blob/main/facial-emotion-recognition.ipynb) : We use [Kaggle](https://www.kaggle.com/) to run this file and get the model file name "model.h5"
+- requirements.txt
+  ```
+    numpy
+    pandas
+    Pillow
+    opencv-python-headless
+    streamlit
+    streamlit-webrtc
+    tensorflow
+  ```
+- "model.h5" is in directory "[model](https://github.com/phamnguyet2003/Emotional-Recognition/tree/main/model)"
+  
 ### Run code
 
 - Install Streamlit using pip Run this command in your terminal or command prompt
